@@ -18,3 +18,5 @@ If you want to contact me => baptiste.letulzeau@epitech.eu
 |     6| SQL                 |
 |     7| PHP                 |
 
+![snake gif](https://github.com/BaptisteLetulzeau/BaptisteLetulzeau/blob/output/github-contribution-grid-snake.gif)
+
