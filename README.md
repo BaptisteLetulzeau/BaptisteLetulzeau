@@ -13,7 +13,8 @@ If you want to contact me => baptiste.letulzeau@epitech.eu
 |     1| HTML/CSS            |
 |     2| JavaScript/React.js |
 |     3| C#/.NET             |
-|     4| Python              |
-|     5| SQL                 |
-|     6| PHP                 |
+|     4| Java                |
+|     5| Python              |
+|     6| SQL                 |
+|     7| PHP                 |
 
