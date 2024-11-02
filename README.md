@@ -6,8 +6,6 @@ In constant search of knowledge...
 
 If you want to contact me => baptiste.letulzeau@epitech.eu
 
-![snake gif](https://github.com/BaptisteLetulzeau/BaptisteLetulzeau/blob/output/github-contribution-grid-snake.gif)
-
 ## Languages
 
 | Rank | Languages           |
