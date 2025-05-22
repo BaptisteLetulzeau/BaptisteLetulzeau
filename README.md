@@ -10,14 +10,9 @@ If you want to contact me => baptiste.letulzeau@epitech.eu.
 
 ## Languages
 
-| Rank | Languages           |
-|-----:|---------------------|
-|     1| C#/.NET             |
-|     2| JavaScript/React.js |
-|     3| Java                |
-|     4| HTML/CSS            |
-|     5| Python              |
-|     6| SQL                 |
+Languages ​​mastered: C#/.NET, JavaScript/React.js, HTML/CSS, Python
+
+Languages that I'm learning: SQL, Java
 
 
 ## My Contributions
