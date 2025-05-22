@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a french 21yrs old developper student located in Montpellier/Perpignan.
+I'm a french 21yrs old developper ,pré-MSC student in Epitech, located in Montpellier/Perpignan.
 
 In constant search of knowledge...
 
