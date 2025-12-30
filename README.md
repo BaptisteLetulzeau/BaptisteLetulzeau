@@ -10,9 +10,9 @@ If you want to contact me => baptiste.letulzeau@epitech.eu.
 
 ## Languages
 
-Languages ​​mastered: C#/.NET, JavaScript/React.js, HTML/CSS, Python, JSON(API)
+Languages ​​mastered: C#/.NET, SQL (TSQL), JavaScript, HTML/CSS, Python, JSON(API), Node.js
 
-Languages that I'm learning: SQL (TSQL), Java, Angular.js, Node.js, React Native, Flutter
+Languages that I'm learning: Java, Angular.js, React.js, Flutter
 
 
 ## My Contributions
